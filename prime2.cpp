@@ -14,7 +14,9 @@ int main() {
     for(b = 0; b <= a; b++) {
         if((a / b == a) && (a / b == 1)) {
             cout << a << " is prime number\n";
-        } 
+        }
+
+    cout << "hello 2";
 
         /*if((a / b != a) && (a / b != 1)) {
             cout << a << " is not prime number\n";
